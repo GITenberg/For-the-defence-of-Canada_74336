@@ -1,11 +1,16 @@
 _repo: For-the-defence-of-Canada_74336
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74336-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Council, The Military Service
     gutenberg_agent_id: '57453'
     url: http://www.gutenberg.org/2009/agents/57453
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74336#For-the-defence-of-Canada
 gutenberg_issued: '2024-08-30'
 gutenberg_type: Text
 identifiers:
